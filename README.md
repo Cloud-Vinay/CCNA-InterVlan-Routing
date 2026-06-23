@@ -37,7 +37,7 @@ This project demonstrates Inter-VLAN Routing using the Router-on-a-Stick method 
 
 ## Network Topology
 
-![Network Topology](Topology.png)
+![Network Topology](topology.png)
 
 ## Features
 
